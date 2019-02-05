@@ -1,0 +1,6 @@
+{
+    "localhost": {
+        "url": "http://magazin.loc",
+        "folder": "/var/www/magazin"
+    }
+}

@@ -1,0 +1,608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"product"
+			],
+			[
+				"cate",
+				"categoryId"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"item",
+				"itemProduct"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"prod",
+				"productList"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"cat",
+				"categoryItem"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"pat",
+				"parameters"
+			],
+			[
+				"new",
+				"newsItem"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"n",
+				"newsList"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"call_user",
+				"call_user_func_array"
+			],
+			[
+				"contr",
+				"controllerName"
+			],
+			[
+				"con",
+				"controllerObject"
+			],
+			[
+				"contro",
+				"controllerName"
+			],
+			[
+				"uri",
+				"uriPattern"
+			],
+			[
+				"ur",
+				"uriPattern"
+			],
+			[
+				"route",
+				"routesPath"
+			],
+			[
+				"PathP",
+				"PathPostfix"
+			],
+			[
+				"act",
+				"actionName"
+			],
+			[
+				"ac",
+				"actionName"
+			],
+			[
+				"conto",
+				"controller"
+			],
+			[
+				"su",
+				"surname"
+			],
+			[
+				"number",
+				"numbersArray"
+			],
+			[
+				"fo",
+				"foundation"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"wor",
+				"worker"
+			],
+			[
+				"a",
+				"andrei"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"mysql",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"tex",
+				"textAnekdot"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"for",
+				"formRegistration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "view/layouts/header.php",
+			"settings":
+			{
+				"buffer_size": 5678,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/CatalogController.php",
+			"settings":
+			{
+				"buffer_size": 654,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/ProductController.php",
+			"settings":
+			{
+				"buffer_size": 381,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Product.php",
+			"settings":
+			{
+				"buffer_size": 822,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/magazin",
+		"/var/www/magazin/components",
+		"/var/www/magazin/config",
+		"/var/www/magazin/controllers",
+		"/var/www/magazin/models",
+		"/var/www/magazin/template",
+		"/var/www/magazin/template/images",
+		"/var/www/magazin/view",
+		"/var/www/magazin/view/catalog",
+		"/var/www/magazin/view/layouts",
+		"/var/www/magazin/view/product",
+		"/var/www/magazin/view/site"
+	],
+	"file_history":
+	[
+		"/var/www/magazin/models/Category.php",
+		"/var/www/magazin/view/catalog/category.php",
+		"/var/www/magazin/view/product/product.php",
+		"/var/www/magazin/models/Product.php",
+		"/var/www/magazin/controllers/ProductController.php",
+		"/var/www/magazin/controllers/SiteController.php",
+		"/var/www/magazin/config/routes.php",
+		"/var/www/magazin/view/catalog/index.php",
+		"/var/www/magazin/view/site/index.php",
+		"/var/www/magazin/index.php",
+		"/var/www/magazin/components/Database.php",
+		"/var/www/magazin/config/db_options.php",
+		"/var/www/magazin/.htaccess",
+		"/var/www/magazin/view/layouts/footer.php",
+		"/var/www/magazin/components/Router.php",
+		"/var/www/magazin/view/layouts/header.php",
+		"/var/www/magazin/view/site/index.html",
+		"/var/www/magazin/template/css/main.css",
+		"/var/www/magazin/index.html",
+		"/var/www/magazin/magazin.sublime-project",
+		"/var/www/myshop/views/news/index.php",
+		"/var/www/myshop/controllers/NewsController.php",
+		"/var/www/myshop/models/News.php",
+		"/var/www/myshop/components/Router.php",
+		"/var/www/myshop/index.php",
+		"/var/www/myshop/myshop.sublime-project",
+		"/var/www/myshop/components/Database.php",
+		"/var/www/myshop/config/routes.php",
+		"/var/www/myshop/.htaccess",
+		"/var/www/myshop/config/db_parameters.php",
+		"/var/www/myshop/models/Article.php",
+		"/var/www/myshop/models/Product.php",
+		"/var/www/myshop/controllers/ProductController.php",
+		"/var/www/myshop/controllers/IndexController.php",
+		"/var/www/myshop/library/mainFunctions.php",
+		"/var/www/myshop/views/default/index.tpl",
+		"/var/www/myshop/config/config.php",
+		"/var/www/myshop/www/index.php",
+		"/var/www/myshop/library/Smarty/configs",
+		"/var/www/myshop/library/Smarty/libs/Smarty.class.php",
+		"/var/www/test/test.sublime-project",
+		"/var/www/test/User.php",
+		"/var/www/test/index.php",
+		"/var/www/PhpEngine/phpTest.sublime-project",
+		"/var/www/PhpEngine/style.css",
+		"/var/www/anekdot/style.css",
+		"/var/www/anekdot/admin/user.php",
+		"/var/www/anekdot/Content.php",
+		"/var/www/anekdot/layout.php",
+		"/var/www/anekdot/index.php",
+		"/var/www/anekdot/anekdot.sublime-project",
+		"/var/www/anekdot/admin/layout.php",
+		"/var/www/anekdot/layout.php.bak",
+		"/var/www/PhpCourse/register.php",
+		"/var/www/PhpCourse/index.php",
+		"/var/www/PhpCourse/Layout.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img src=\"images/",
+			"image",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img src=\"/template/images/",
+			"img src=\"template/images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "view/layouts/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4525,
+								4525
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/CatalogController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.29.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/ProductController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"SL.23.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/Product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.32.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "magazin.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/myshop/myshop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

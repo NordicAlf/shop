@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": "/var/www/magazin"
+        }
+    ],
+    "settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://magazin.loc",
+            "basePath": "/var/www/magazin"
+        }
+    }
+}
